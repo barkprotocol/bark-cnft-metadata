@@ -1,0 +1,41 @@
+{
+  "name": "BARK NFT",
+  "symbol": "",
+  "uri": "https://example.com/metadata.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "gEb7nD9yLkau1P4uyMdke9byJNrat61suH4vYiPUuiR",
+      "share": 1500
+    }
+  ],
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    }
+  ],
+  "collection": {
+    "name": "Underdogs Collection",
+    "club": "The Peaky Barkers"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ucarecdn.com/9416c194-b24e-4780-bf91-f55f4dd8f074/barkblink.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "BARKkeAwhTuFzcLHX4DjotRsmjXQ1MshGrZbn1CUQqMo",
+        "share": 1500
+      }
+    ]
+  }
+}
